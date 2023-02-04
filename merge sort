@@ -1,4 +1,4 @@
-[9:58 am, 04/02/2023] +91 98421 48424: #include <stdio.h>
+ #include <stdio.h>
 
 void merge_Sort(int a[], int low, int mid, int high)
 {
